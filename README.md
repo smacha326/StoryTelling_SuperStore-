@@ -57,13 +57,7 @@ I turned my analysis into a Tableau Story — kind of like a slideshow — to ex
 - Steps the store can take (like investigating top returners or problem products)
 - A conclusion with next steps — like using the dashboard going forward
 
-<iframe
-  src="https://public.tableau.com/views/Storytelling_17462125597080/Storyboard?:embed=y&:showVizHome=no"
-  width="1000"
-  height="800"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+[View My Tableau Story: Returns Analysis](https://public.tableau.com/app/profile/sairamya.macha/viz/Storytelling_17462125597080/Storyboard?publish=yes)
 
 ---
 
